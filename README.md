@@ -1,1 +1,3 @@
 # DadosClimaticos
+Programa realiza a leitura dos	dados	climáticos de	Londrina no	ano	de	2018	referentes	a	temperatura	e	a	
+umidade	relativa	do	ar	que	constam	no	arquivo	DadosClimaticos2018Londrina.csv. Ademais, o programa utiliza a biblioteca	Pandas permitindo que o usuário visualize a	média	de	temperatura	em	cada	mês	do	ano, média	de	umidade	relativa	do	ar	em	cada	mês	do	ano, lista	de	todos	os	meses	do	ano	que	tiveram	a	correspondente temperatura	média	 acima de	certo	valor informado	pelo	usuário e lista	de	todos	os	meses	do	ano	que	tiveram	a	correspondente	umidade	relativa	do	ar	média	abaixo	de	certo	valor		informado	pelo	usuário.
